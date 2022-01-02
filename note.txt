@@ -1,4 +1,4 @@
-cd C:\Users\rayansh\Documents\program
+cd C:\Users\rayansh\Documents\program\myprogram
 
 set path="C:\Program Files\Java\jdk1.8.0_301\bin"
 
